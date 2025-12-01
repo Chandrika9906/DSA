@@ -17,4 +17,11 @@ public class print1toNRecursion {
             sol.printNumbers(1,n);
         }
     }
+    /*
+    5
+    1
+    2
+    3
+    4
+    5 */
 
